@@ -52,8 +52,8 @@ This project is a backend application designed to handle user authentication, se
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ETKHAN/backend-auth-project.git
-   cd backend-auth-project
+   git clone https://github.com/ETKHAN/backend.git
+   cd backend
    ```
 
 2. **Install dependencies:**
@@ -97,7 +97,7 @@ Server will be running on `http://localhost:5000` (or your configured port).
 ## Project Structure
 
 ```
-backend-auth-project/
+backend/
 ├── controllers/
 ├── middlewares/
 ├── models/
